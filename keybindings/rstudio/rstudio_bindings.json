@@ -1,0 +1,22 @@
+{
+    "activateConsolePane" : "Shift+C",
+    "activateSource" : "Cmd+1",
+    "activateTerminal" : "Shift+T",
+    "addCursorBelow" : "Ctrl+Cmd+Down",
+    "executeAllCode" : "Shift+Cmd+A",
+    "executeToCurrentLine" : "Shift+Cmd+Up",
+    "fold" : "Alt+C|Alt+Cmd+L|Cmd+F1",
+    "foldAll" : "Alt+O",
+    "insertPipeOperator" : "Cmd+P",
+    "layoutZoomConsole" : "Cmd+2",
+    "layoutZoomHelp" : "Shift+Cmd+H",
+    "layoutZoomSource" : "Cmd+3",
+    "modifyKeyboardShortcuts" : "Shift+K",
+    "newSourceDoc" : "Cmd+N",
+    "nextTab" : "Shift+L",
+    "openSourceDoc" : "",
+    "previousTab" : "Shift+H",
+    "restartR" : "Shift+Cmd+R",
+    "switchFocusSourceConsole" : "Shift+S",
+    "unfold" : "Alt+X|Shift+Alt+Cmd+L|Shift+Cmd+F1"
+}
